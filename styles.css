@@ -590,7 +590,7 @@ section {
   }
 
   #about {
-    height: 100vh;
+    height: 110vh;
     font-size: 16px;
   }
 
@@ -647,6 +647,7 @@ section {
 
     #projects {
       height: 100vh;
+        width: 100vh;
       flex-wrap: wrap;
     }
 
