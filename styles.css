@@ -511,7 +511,7 @@ section {
     }
 
     #projects #content {
-      margin-left: 10vh;
+      margin-left: 2vh;
     }
 
     #contacts {
@@ -647,7 +647,6 @@ section {
 
     #projects {
       height: 100vh;
-        width: 100vh;
       flex-wrap: wrap;
     }
 
